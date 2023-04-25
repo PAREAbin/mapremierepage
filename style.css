@@ -1,0 +1,152 @@
+.determine {
+    display: flex;
+    border-radius: 16%;
+}
+
+.title1 {
+    margin: 10px;
+    border: 1;
+    background-color: rgb(176, 176, 12);
+}
+
+.title3 {
+    margin: 10px;
+    border: 1;
+    background-color: yellow;
+}
+
+.title2 {
+    margin: 10px;
+    border: 1;
+    background-color: red;
+}
+
+.aa {
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(95, 92, 92);
+}
+
+.a {
+    margin: 20px;
+    padding: 5px;
+    ;
+}
+
+.pa {
+    margin: 20px;
+    color: white;
+    background-color: blue;
+    padding: 5px;
+}
+
+.po {
+    width: 500px;
+    border: 2px solid rgb(245, 239, 239);
+    height: 50px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.ei {
+    display: flex;
+    margin-left: 160px;
+    padding: 10px;
+}
+
+.pe {
+    margin: 5px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    padding: 5px;
+    background-color: rgb(234, 228, 228);
+    color: rgb(80, 77, 77);
+}
+
+.pi {
+    margin: 5px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    padding: 5px;
+    background-color: rgb(234, 228, 228);
+    color: rgb(122, 103, 103);
+}
+
+.bf {
+    margin-top: 300px;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    background-color: rgb(232, 229, 229);
+}
+
+.cz {
+    display: flex;
+}
+
+.cy {
+    display: flex;
+    float: right;
+    margin-left: 300px;
+}
+
+.i {
+    margin: 10px;
+    color: black;
+}
+
+.u {
+    margin: 10px;
+    color: black;
+}
+
+.q {
+    display: flex;
+    background-color: rgb(226, 219, 219);
+}
+
+.d {
+    border: 2px solid crimson;
+}
+
+.lo {
+    display: flex;
+}
+
+
+.ii {
+    text-align: center;
+}
+
+.fd {
+    display: flex;
+    text-align: center;
+}
+
+.loupe {
+    position: absolute;
+    margin-left: -60px;
+    margin-top: -50px;
+}
+
+.camera {
+    position: absolute;
+    margin-left: 340px;
+    margin-top:-52px ;
+}
+
+.micro {
+    position: absolute;
+    margin-left: 305px;
+    margin-top:-52px ;
+}
+.bfa{background-color: rgb(244, 235, 235);
+border:1px ;}
